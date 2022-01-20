@@ -1,0 +1,24 @@
+From 2bbeb351756e5e7669c25eebad3cb9f08718f929 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?jeffery=2Echen=20=28=E9=99=B3=E4=BF=8A=E5=BB=B7=20-=20Geta?=
+ =?UTF-8?q?c=29?= <jeffery.chen@getac.com.tw>
+Date: Thu, 20 Jan 2022 15:54:31 +0800
+Subject: [PATCH] 66
+
+---
+ new.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/new.txt b/new.txt
+index 538ae93..299bbd7 100644
+--- a/new.txt
++++ b/new.txt
+@@ -2,5 +2,5 @@ this is a clone repository.
+ merge all.
+ push again.
+ test1
+-test5
++test66
+ test3
+-- 
+2.33.1.windows.1
+
