@@ -1,7 +1,6 @@
 this is a clone repository.
 merge all.
 push again.
-<<<<<<< HEAD
-.
-?
->>>>>>> branch0
+test1
+test2
+test3
